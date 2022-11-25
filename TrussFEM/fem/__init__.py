@@ -1,8 +1,6 @@
-BSD 2-Clause License
+__copyright__= "Copyright (C) 2022-present by Chengshun Shang @Geo_StarLab"
 
-Copyright (c) 2022, Chengshun Shang @Geo_StarLab
-All rights reserved.
-
+__license__ = """
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
@@ -23,3 +21,7 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+"""
+
+
+__all__=["fem_procedure"]
